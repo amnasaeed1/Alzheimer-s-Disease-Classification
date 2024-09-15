@@ -1,1 +1,3 @@
 # Alzheimer-s-Disease-Classification
+
+This repository contains the code for classifying individuals with Alzheimer's Disease using data from the Open Access Series of Imaging Studies (OASIS). The dataset includes MRI features along with demographic and cognitive measures such as gender, handedness, age, education level (EDUC), socioeconomic status (SES), Mini-Mental State Examination (MMSE) scores, and Clinical Dementia Rating (CDR). Machine learning models are used to differentiate between individuals with Alzheimer's Disease and those without, aiming to support early detection and diagnosis.
